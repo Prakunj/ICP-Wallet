@@ -1,3 +1,4 @@
+mod test;
 use candid::{CandidType, Deserialize};
 use ic_cdk_macros::{init, update};
 use std::collections::HashMap;
